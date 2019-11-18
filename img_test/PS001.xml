@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>PS001</filename>
+  <path>D:\Documents\Universidad\9no\Redes Neuronales\Reconocimiento\deteccion_objetos\images\PS001.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>620</width>
+    <height>413</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>242</xmin>
+      <ymin>143</ymin>
+      <xmax>319</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+</annotation>
