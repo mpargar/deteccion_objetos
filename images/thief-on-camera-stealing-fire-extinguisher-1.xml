@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>thief-on-camera-stealing-fire-extinguisher-1</filename>
+  <path>D:\Documents\Universidad\9no\Redes Neuronales\Reconocimiento\deteccion_objetos\images\thief-on-camera-stealing-fire-extinguisher-1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>804</width>
+    <height>1297</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>76</xmin>
+      <ymin>23</ymin>
+      <xmax>717</xmax>
+      <ymax>1183</ymax>
+    </bndbox>
+  </object>
+</annotation>
