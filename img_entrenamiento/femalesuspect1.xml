@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>femalesuspect1</filename>
+  <path>D:\Documents\Universidad\9no\Redes Neuronales\Reconocimiento\deteccion_objetos\images\femalesuspect1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>550</width>
+    <height>650</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>230</xmin>
+      <ymin>304</ymin>
+      <xmax>373</xmax>
+      <ymax>616</ymax>
+    </bndbox>
+  </object>
+</annotation>

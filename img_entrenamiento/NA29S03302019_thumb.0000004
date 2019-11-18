@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>NA29S03302019_thumb.0000004</filename>
+  <path>D:\Documents\Universidad\9no\Redes Neuronales\Reconocimiento\deteccion_objetos\images\NA29S03302019_thumb.0000004.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>432</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>302</xmin>
+      <ymin>44</ymin>
+      <xmax>442</xmax>
+      <ymax>264</ymax>
+    </bndbox>
+  </object>
+</annotation>
